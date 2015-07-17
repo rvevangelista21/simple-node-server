@@ -1,0 +1,11 @@
+div  {margin: 0px auto;
+	border: 1px solid black;
+	width: 40%
+	;text-align:center; background-color:white;}
+	
+	body {background-color:grey;}
+h3 {color:grey;}
+#main-title{line-height:10px;}
+#first {font-size:1.5em; }
+#third, #fourth {line-height: 1cm;}
+.sub {position:relative; bottom:-1ex;color:red};

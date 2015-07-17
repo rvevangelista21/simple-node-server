@@ -1,0 +1,30 @@
+
+.rect {border-style:dashed;border-color:#cbe5ff; color: #cbe5ff; text-decoration: none; 
+width:30px; padding-top:200px; text-align: center; float:right ;
+}
+.whole {background-color: #cbe5ff;  width: 980px; height:900px; margin: 0 auto; position: relative;  z-index: -5;}
+.header {background-color: none; width: 900px; height: 200px; position: relative; top: 40px; margin: auto;}
+.box {width: 150px; height: 150px; position:absolute; left: 40px; top: 20px; background-color: white;}
+.preview {width: 750px; height: 200px; background-color: #84befe; position: absolute; top: 10px; right: 3px;   z-index: -1;}
+
+.container {background-color: white; width:900px; height: 400px; position: absolute;; top: 275px; left: 40px; right: 50 px;  z-index: -1;}
+
+a {
+float:left;
+width:159px;
+text-decoration:none;
+color:white;
+background-color:#84befe;
+padding: 10px;
+border-right:1px solid white;
+text-align:center;
+}
+a:hover {
+background-color:white;color:#84befe ;
+}
+
+.last {background-color: white; width:900px; height:150px; position: absolute;top:415px;left: 2px;  z-index: -2;border-style:dotted;border-color: #cbe5ff;}
+.left {border-style:dotted; background-color: white; width:440px; height: 150px; position: absolute: top:417px;; border-color: #cbe5ff;}
+.right-head {width:420px;height:25px; background-color:#84befe;padding: 10px; position: absolute; bottom:100px;}
+.left-head {width:430px;height:25px; background-color:#84befe;padding: 10px; position: absolute; bottom:100px; right:5px;}
+.footer {color:#84befe ; font-family:arial; position: absolute; bottom:1px; right:1px;}
